@@ -6,10 +6,10 @@ User is allowed to update name
 
 New email is unused on previous registrations
 
-Length for new not less 8 characters
+Length for new not less than 8 characters
 
 Check grammatical mistakes
 
-Password symbols not less 8 characters
+Password symbols not less than 8 characters
 
-User is Logged out and redirected to the Homepage as guest
+User is logged out and redirected to the homepage as a guest
